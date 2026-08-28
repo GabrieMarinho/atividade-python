@@ -10,8 +10,8 @@ lista_nomes.py. armazena e exibe uma lista de nomes
 
 Como executar
 
-Com o Python instalado, execute no terminal:
-bash
+Com o Python instalado, execute no terminal com os Scripts Abaixo
+
 python calculadora.py
 python verificacao_numero.py
 python media_aluno.py
