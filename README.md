@@ -12,7 +12,7 @@ Como executar
 
 Com o Python instalado, execute no terminal com os Scripts Abaixo
 
-python calculadora.py
-python verificacao_numero.py
-python media_aluno.py
-python lista_nomes.py
+python calculadora.py.
+python verificacao_numero.py.
+python media_aluno.py.
+python lista_nomes.py.
