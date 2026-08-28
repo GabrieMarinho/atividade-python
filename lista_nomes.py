@@ -1,6 +1,6 @@
 print("=== LISTA DE NOMES ===")
 
-nomes = []
+nomes = ["Eduardo", "Maria", "João", "Ana", "Pedro"]
 
 print("Digite 5 nomes:")
 
