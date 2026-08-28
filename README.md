@@ -1,6 +1,6 @@
 Atividade Python
 
-Nome:Gabriel Costa Marinho
+Nome: Gabriel Costa Marinho
 Scripts
 
 calculadora.py. realiza operações matemáticas
